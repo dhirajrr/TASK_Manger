@@ -2,7 +2,7 @@
 
 A modern, full-stack task management application built with React, TypeScript, and Supabase. This application allows users to manage their tasks with features like creation, updating, completion tracking, and deletion.
 
-![Task Management URL_Site](https://cozy-sawine-483527.netlify.app/)
+
 
 ## Features
 
